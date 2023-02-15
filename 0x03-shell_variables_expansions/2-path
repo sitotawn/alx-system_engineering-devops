@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ~0x03-shell_variables_expansions_
+echo ~2-path
